@@ -1,4 +1,4 @@
-### kendo [Open Window](https://llqiwazjo.github.stackblitz.io/)
+### kendo [Open Browser](https://llqiwazjo.github.stackblitz.io/)
 ---
 https://stackblitz.com/github/telerik/kendo-react-stackblitz-app/tree/stackblitz
 
